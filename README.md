@@ -15,13 +15,15 @@ The repository is divided into several folders, either for a specific product or
 * Brand: InVision-branded assets or other marketing collateral
 * Thirdparty: images of third-party apps or tools with which we have an official partnership, such as the Microsoft logo
 
+# File size
+
+Images should be less than 100 KB.
 
 # Fileformat
 
-All screenshots must be a PNG.
+All images must be a PNG.
 
 All videos must be an MP4.
-
 
 # Filenames
 
