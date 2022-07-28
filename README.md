@@ -5,15 +5,17 @@ This repo contais visual media, such as screenshots and brand images, for public
 
 The repository is divided into several folders, either for a specific product or a type of image. Folders are further subdivided into sub-folders to help with browsing and discoverability of media. 
 
-* Freehand: screenshots of Freehand
-    * ui: contains images of UI icons only
-* V7: screenshots of v7
-    * ui: contains images of UI icons only
-* V6: screenshots of v6
-    * ui: contains images of UI icons only
-* Craft: screenshots of Craft
+* Assets: images used in our documentation, for example in tip and warning callouts
 * Brand: InVision-branded assets or other marketing collateral
+* Craft: screenshots of Craft
+* Freehand: screenshots of Freehand
+    * ui: contains images of single UI icons only
 * Thirdparty: images of third-party apps or tools with which we have an official partnership, such as the Microsoft logo
+* V7: screenshots of v7
+    * ui: contains images of single UI icons only
+* V6: screenshots of v6
+    * ui: contains images of single UI icons only
+
 
 # File size
 
