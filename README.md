@@ -5,7 +5,7 @@ This repo contais visual media, such as screenshots and brand images, for public
 
 The repository is divided into several folders, either for a specific product or a type of image. Folders are further subdivided into sub-folders to help with browsing and discoverability of media. 
 
-* Assets: images used in our documentation, for example in tip and warning callouts
+* Assets: non-product images used in our documentation, for example in tip and warning callouts
 * Brand: InVision-branded assets or other marketing collateral
 * Craft: screenshots of Craft
 * Freehand: screenshots of Freehand
